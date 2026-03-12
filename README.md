@@ -111,82 +111,82 @@ Dalam pengembangan sistem ini diterapkan beberapa konsep pemrograman, antara lai
 #### Halaman Login
 ![alt text](<assets/img/Doumentasi/Halaman Login.png>)
 
-Halaman Dashboard Admin
+#### Halaman Dashboard Admin
 ![alt text](<assets/img/Doumentasi/Halaman Dashboard.png>)
 
-Halaman User
+#### Halaman User
 ![alt text](<assets/img/Doumentasi/Halaman User.png>)
 
-Halaman Tambah User
+#### Halaman Tambah User
 ![alt text](<assets/img/Doumentasi/Halaman Tambah User.png>)
 
-Halaman Edit User
+#### Halaman Edit User
 ![alt text](<assets/img/Doumentasi/Halaman Edit User.png>)
 
-Halaman Supplier
+#### Halaman Supplier
 ![alt text](<assets/img/Doumentasi/Halaman Supplier.png>)
 
-Halaman Tambah Supplier
+#### Halaman Tambah Supplier
 ![alt text](<assets/img/Doumentasi/Halaman Tambah Supplier.png>)
 
-Halaman Edit Supplier
+#### Halaman Edit Supplier
 ![alt text](<assets/img/Doumentasi/Halaman Edit Supplier.png>)
 
-Halaman Kategori
+#### Halaman Kategori
 ![alt text](<assets/img/Doumentasi/Halaman Kategori.png>)
 
-Halaman Tambah Kategori
+#### Halaman Tambah Kategori
 ![alt text](<assets/img/Doumentasi/Halaman Tambah Kategori.png>)
 
-Halaman Edit Kategori
+#### Halaman Edit Kategori
 ![alt text](<assets/img/Doumentasi/Halaman Edit Kategori.png>)
 
-Halaman Produk
+#### Halaman Produk
 ![alt text](<assets/img/Doumentasi/Halaman Produk.png>)
 
-Halaman Tambah Produk
+#### Halaman Tambah Produk
 ![alt text](<assets/img/Doumentasi/Halaman Tambah Produk.png>)
 
-Halaman Edit Produk
+#### Halaman Edit Produk
 ![alt text](<assets/img/Doumentasi/Halaman Edit Produk.png>)
 
-Halaman Pelanggan
+#### Halaman Pelanggan
 ![alt text](<assets/img/Doumentasi/Halaman Pelanggan.png>)
 
-Halaman Penjualan
+#### Halaman Penjualan
 ![alt text](<assets/img/Doumentasi/Halaman Penjualan.png>)
 
-Halaman Detail Penjualan
+#### Halaman Detail Penjualan
 ![alt text](<assets/img/Doumentasi/Halaman Detail Penjualan.png>)
 
-Halaman Rekening
+#### Halaman Rekening
 ![alt text](<assets/img/Doumentasi/Halaman Rekening.png>)
 
-Halaman Tambah Rekening
+#### Halaman Tambah Rekening
 ![alt text](<assets/img/Doumentasi/Halaman Tambah Rekening.png>)
 
-Halaman Edit Rekening
+#### Halaman Edit Rekening
 ![alt text](<assets/img/Doumentasi/Halaman Edit Rekening.png>)
 
-Halaman Laporan Penjualan
+#### Halaman Laporan Penjualan
 ![alt text](<assets/img/Doumentasi/Halaman Laporan Penjualan.png>)
 
-Halaman Laporan Keuntungan
+#### Halaman Laporan Keuntungan
 ![alt text](<assets/img/Doumentasi/Halaman Laporan Keuntungan.png>)
 
-Halaman Laporan Produk
+#### Halaman Laporan Produk
 ![alt text](<assets/img/Doumentasi/Halaman Laporan Produk.png>)
 
-Halaman Dashboard Kasir
+#### Halaman Dashboard Kasir
 ![alt text](<assets/img/Doumentasi/Halaman Dasboard Kasir.png>)
 
-Halaman Penjualan
+#### Halaman Penjualan
 ![alt text](<assets/img/Doumentasi/Halaman Penjualan.png>)
 
-Halaman Laporan 
+#### Halaman Laporan 
 ![alt text](<assets/img/Doumentasi/Halaman Laporan.png>)
 
-Halaman Edit Akun
+#### Halaman Edit Akun
 ![alt text](<assets/img/Doumentasi/Halaman Edit Akun.png>)
 
 ## Author
