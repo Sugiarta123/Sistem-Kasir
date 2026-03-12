@@ -88,11 +88,11 @@ Untuk menjalankan sistem ini pada komputer lokal, ikuti langkah berikut:
 Sistem memiliki dua akun pengguna yang dapat digunakan untuk login:
 
 ### Admin
-Username : sugi@gmail.com
+Username : sugi@gmail.com <br>
 Password : sugi
 
 ### Kasir
-Username : ita@gmail.com
+Username : ita@gmail.com <br>
 Password : ita
 
 -------------------------------------------------------------------------------------------------------------------------
@@ -108,8 +108,8 @@ Dalam pengembangan sistem ini diterapkan beberapa konsep pemrograman, antara lai
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Author
-Nama : I Putu Gede Sugiarta
-Project : Sistem Kasir Sugi Techno
+Nama : I Putu Gede Sugiarta <br>
+Project : Sistem Kasir Sugi Techno <br>
 Skema Sertifikasi : Programmer
 
 -------------------------------------------------------------------------------------------------------------------------
