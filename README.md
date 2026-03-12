@@ -107,6 +107,10 @@ Dalam pengembangan sistem ini diterapkan beberapa konsep pemrograman, antara lai
 
 -------------------------------------------------------------------------------------------------------------------------
 
+## Dokumentasi Interface Sistem Kasir
+Halaman Login
+![alt text](<assets/img/Doumentasi/Halaman Login.png>)
+
 ## Author
 Nama : I Putu Gede Sugiarta <br>
 Project : Sistem Kasir Sugi Techno <br>
