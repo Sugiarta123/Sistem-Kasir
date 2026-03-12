@@ -111,6 +111,84 @@ Dalam pengembangan sistem ini diterapkan beberapa konsep pemrograman, antara lai
 Halaman Login
 ![alt text](<assets/img/Doumentasi/Halaman Login.png>)
 
+Halaman Dashboard Admin
+![alt text](<assets/img/Doumentasi/Halaman Dashboard.png>)
+
+Halaman User
+
+
+Halaman Tambah User
+
+
+Halaman Edit User
+
+
+Halaman Supplier
+
+
+Halaman Tambah Supplier
+
+
+Halaman Edit Supplier
+
+
+Halaman Kategori
+
+
+Halaman Tambah Kategori
+
+
+Halaman Edit Kategori
+
+
+Halaman Produk
+
+
+Halaman Tambah Produk
+
+
+Halaman Edit Produk
+
+
+Halaman Pelanggan
+
+
+Halaman Penjualan
+
+
+Halaman Detail Penjualan
+
+
+Halaman Rekening
+
+
+Halaman Tambah Rekening
+
+
+Halaman Edit Rekening
+
+
+Halaman Laporan Penjualan
+
+
+Halaman Laporan Keuntungan
+
+
+Halaman Laporan Produk
+
+
+Halaman Dashboard Kasir
+
+
+Halaman Penjualan
+
+
+Halaman Laporan 
+
+
+Halaman Edit Akun
+
+
 ## Author
 Nama : I Putu Gede Sugiarta <br>
 Project : Sistem Kasir Sugi Techno <br>
