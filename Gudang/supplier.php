@@ -1,0 +1,43 @@
+<?php 
+//mendapatkan id toko si user yang login
+$id_toko = $_SESSION['user']['id_toko'];
+
+$supplier = array();
+$ambil = $koneksi->query("SELECT * FROM supplier WHERE id_toko='$id_toko' ");
+while($tiap = $ambil->fetch_assoc())
+{
+    $supplier[] = $tiap;
+}
+
+// echo "<pre>";
+// print_r($supplier);
+// echo "</pre>";
+?>
+
+<div class="card border-0 shadow">
+    <div class="card-header bg-primary text-white">Supplier</div>
+    <div class="card-body">
+        <table class="table table-bordered" id="tabel">
+            <thead>
+                <tr>
+                    <th style="width: 5%;">No</th>
+                    <th style="width: 70%; padding-left:40px;">Nama</th>
+                    <th style="width: 25%;">Opsi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <?php foreach($supplier as $key => $value): ?>
+                <tr>
+                    <td class="text-center"><?php echo$key+1 ?></td>
+                    <td style="padding-left:40px;"><?php echo$value["nama_supplier"] ?></td>
+                    <td>
+                        <a class="btn btn-warning btn-sm" href="index.php?page=supplier_edit&id=<?php echo $value["id_supplier"] ?>">Edit</a>
+                        <a class="btn btn-danger btn-sm" href="index.php?page=supplier_hapus&id=<?php echo $value["id_supplier"] ?>">Hapus</a>
+                    </td>
+                </tr>
+                <?php endforeach; ?>
+            </tbody>
+        </table>
+        <a class="btn btn-primary btn-sm" href="index.php?page=supplier_tambah">Tambah</a>
+    </div>
+</div>
