@@ -115,79 +115,79 @@ Halaman Dashboard Admin
 ![alt text](<assets/img/Doumentasi/Halaman Dashboard.png>)
 
 Halaman User
-
+![alt text](<assets/img/Doumentasi/Halaman User.png>)
 
 Halaman Tambah User
-
+![alt text](<assets/img/Doumentasi/Halaman Tambah User.png>)
 
 Halaman Edit User
-
+![alt text](<assets/img/Doumentasi/Halaman Edit User.png>)
 
 Halaman Supplier
-
+![alt text](<assets/img/Doumentasi/Halaman Supplier.png>)
 
 Halaman Tambah Supplier
-
+![alt text](<assets/img/Doumentasi/Halaman Tambah Supplier.png>)
 
 Halaman Edit Supplier
-
+![alt text](<assets/img/Doumentasi/Halaman Edit Supplier.png>)
 
 Halaman Kategori
-
+![alt text](<assets/img/Doumentasi/Halaman Kategori.png>)
 
 Halaman Tambah Kategori
-
+![alt text](<assets/img/Doumentasi/Halaman Tambah Kategori.png>)
 
 Halaman Edit Kategori
-
+![alt text](<assets/img/Doumentasi/Halaman Edit Kategori.png>)
 
 Halaman Produk
-
+![alt text](<assets/img/Doumentasi/Halaman Produk.png>)
 
 Halaman Tambah Produk
-
+![alt text](<assets/img/Doumentasi/Halaman Tambah Produk.png>)
 
 Halaman Edit Produk
-
+![alt text](<assets/img/Doumentasi/Halaman Edit Produk.png>)
 
 Halaman Pelanggan
-
+![alt text](<assets/img/Doumentasi/Halaman Pelanggan.png>)
 
 Halaman Penjualan
-
+![alt text](<assets/img/Doumentasi/Halaman Penjualan.png>)
 
 Halaman Detail Penjualan
-
+![alt text](<assets/img/Doumentasi/Halaman Detail Penjualan.png>)
 
 Halaman Rekening
-
+![alt text](<assets/img/Doumentasi/Halaman Rekening.png>)
 
 Halaman Tambah Rekening
-
+![alt text](<assets/img/Doumentasi/Halaman Tambah Rekening.png>)
 
 Halaman Edit Rekening
-
+![alt text](<assets/img/Doumentasi/Halaman Edit Rekening.png>)
 
 Halaman Laporan Penjualan
-
+![alt text](<assets/img/Doumentasi/Halaman Laporan Penjualan.png>)
 
 Halaman Laporan Keuntungan
-
+![alt text](<assets/img/Doumentasi/Halaman Laporan Keuntungan.png>)
 
 Halaman Laporan Produk
-
+![alt text](<assets/img/Doumentasi/Halaman Laporan Produk.png>)
 
 Halaman Dashboard Kasir
-
+![alt text](<assets/img/Doumentasi/Halaman Dasboard Kasir.png>)
 
 Halaman Penjualan
-
+![alt text](<assets/img/Doumentasi/Halaman Penjualan.png>)
 
 Halaman Laporan 
-
+![alt text](<assets/img/Doumentasi/Halaman Laporan.png>)
 
 Halaman Edit Akun
-
+![alt text](<assets/img/Doumentasi/Halaman Edit Akun.png>)
 
 ## Author
 Nama : I Putu Gede Sugiarta <br>
