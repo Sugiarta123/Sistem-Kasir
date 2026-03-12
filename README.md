@@ -108,7 +108,7 @@ Dalam pengembangan sistem ini diterapkan beberapa konsep pemrograman, antara lai
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Dokumentasi Interface Sistem Kasir
-# Halaman Login
+#### Halaman Login
 ![alt text](<assets/img/Doumentasi/Halaman Login.png>)
 
 Halaman Dashboard Admin
